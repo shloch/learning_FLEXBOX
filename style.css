@@ -1,0 +1,75 @@
+
+/*<!--______________ flex-direction: row;_______________-->*/
+
+#cubes-row {
+      border: 1px solid black;
+      width: 90%;
+       padding : 10px;
+       /*flex properties*/
+      display: flex;
+      flex-direction: row;
+
+}
+
+#cubes-row div[class*="cube-"],
+#cubes-column div[class*="cube-"] {
+      border:1px solid red;
+      width: 25%;
+      height: 50px;
+      margin: 5px;
+
+}
+
+/*<!--______________ flex-direction: column;_______________-->*/
+
+
+#cubes-column {
+      border: 1px solid black;
+      width: 90%;
+       padding : 10px;
+       /*flex properties*/
+      display: flex;
+      flex-direction: column;
+}
+
+/*<!--______________ flex-wrap: no-wrap;_______________-->*/
+
+#cubes-nowrap {
+      border: 1px solid black;
+      width: 90%;
+       padding : 10px;
+       /*flex properties*/
+      display: flex;
+      flex-wrap: nowrap;
+
+}
+
+#cubes-nowrap div[class*="cube-"],
+#cubes-wrap div[class*="cube-"]
+ {
+      border:1px solid red;
+      width: 25%;
+      height: 50px;
+      margin: 5px;
+
+}
+
+/*<!--______________ flex-wrap: nwrap;_______________-->*/
+
+#cubes-wrap {
+      border: 1px solid black;
+      width: 90%;
+       padding : 10px;
+       /*flex properties*/
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
