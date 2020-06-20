@@ -6,9 +6,9 @@ Creating a reference document for my self to run back to in times of need
 ## Screenshot 
 
 
-![alt text](https://github.com/shloch/custom-Grid-based-Framework/blob/master/assets/images/screenshot1.png)
+![alt text](https://github.com/shloch/learning_FLEXBOX/blob/master/design.gif)
 
-![alt text](https://github.com/shloch/custom-Grid-based-Framework/blob/master/assets/images/screenshot2.png)
+![alt text](https://github.com/shloch/learning_FLEXBOX/blob/master/design2.gif)
 
 
 
