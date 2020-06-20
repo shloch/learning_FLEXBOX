@@ -6,7 +6,7 @@ Creating a reference document for my self to run back to in times of need
 ## Screenshot 
 
 
-![alt text](https://github.com/shloch/learning_FLEXBOX/blob/master/design.gif)
+![alt text](https://github.com/shloch/learning_FLEXBOX/blob/master/design3.gif)
 
 ![alt text](https://github.com/shloch/learning_FLEXBOX/blob/master/design2.gif)
 
